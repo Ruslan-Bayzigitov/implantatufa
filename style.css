@@ -101,7 +101,8 @@ header.fixed #logo {
 
 #top {
   width: 100%;
-  background-image: url(кабинет.jpg);
+  background-image: url(кабинет.jpg) no-repeat;
+
   background-blend-mode: multiply;
   background-color: #2e3a44;
   background-size: cover;
